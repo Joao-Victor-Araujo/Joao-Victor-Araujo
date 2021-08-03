@@ -19,7 +19,8 @@
 <h3 align="left">Contato:</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/jvas1999/"><img src="https://img.shields.io/badge/JoãoVictor-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jvas1999/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
 <a href="mailto:jvas1999@gmail.com"><img src="https://img.shields.io/badge/jvas1999@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)"/></a>
-<a href="https://www.instagram.com/dalestinho1/"><img src="https://img.shields.io/badge/dalestinho1-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><a/>
+<a href="https://instagram.com/dalestinho1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p>

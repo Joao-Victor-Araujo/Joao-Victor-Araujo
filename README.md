@@ -20,7 +20,6 @@
 <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvas1999&hide=html&layout=compact&theme=buefy"/></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=jvas1999&theme=buefy"/></td>
     </tr>   
 </table>
 </center> 

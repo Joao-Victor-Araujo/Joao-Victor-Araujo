@@ -5,7 +5,7 @@
 
 -Sou estudante da Rede Cidadã via Accenture, busco conhecimento e certificados em varias plataformas(freecodecamp,udemy,dio,trybe).
 
-<h3>Tecnologia que mais utilizo e estudo</h3>
+<h3>Tecnologia que utilizo e estudo</h3>
 
 <p align="left">
 <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" styles="display: inline" />

@@ -3,7 +3,7 @@
 
 <br>
 
--Sou estudante da Rede Cidadã via Accenture, amo tecnologia e busco estar em dia com ela todos os dias, na busca pela evolução.
+-I am a student at Rede Cidadã via Accenture, I love technology and I try to be up to date with it every day, in the search for evolution.
 
 <div>
   <a href="https://github.com/Joao-Victor-Araujo">
@@ -12,7 +12,7 @@
 </div>
 
 
-<h3>Tecnologia que utilizo e estudo</h3>
+<h3>Technology I use and study</h3>
 
 <p align="left">
 <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" styles="display: inline" />
@@ -23,7 +23,7 @@
 <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" styles="display: inline"/>
 </p>
 
-<h3 align="left">Contato:</h3>
+<h3 align="left">contact:</h3>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/jvas1999/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>

@@ -3,7 +3,7 @@
 
 <br>
 
--Sou estudante da Rede Cidadã via Accenture, busco conhecimento e certificados em varias plataformas(freecodecamp,udemy,dio,trybe).
+-Sou estudante da Rede Cidadã via Accenture, amo tecnologia e busco estar em dia com ela todos os dias, na busca pela evolução.
 
 <h3>Tecnologia que utilizo e estudo</h3>
 

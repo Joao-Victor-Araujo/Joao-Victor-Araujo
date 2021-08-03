@@ -16,14 +16,6 @@
 <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" styles="display: inline"/>
 </p>
 
-<center>
-<table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvas1999&hide=html&layout=compact&theme=buefy"/></td>
-    </tr>   
-</table>
-</center> 
-
 <h3 align="left">Contato:</h3>
 
 <p align="left">

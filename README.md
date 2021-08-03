@@ -6,9 +6,8 @@
 -I am a student at Rede Cidadã via Accenture, I love technology and I try to be up to date with it every day, in the search for evolution.
 
 <div>
-  <a href="https://github.com/Joao-Victor-Araujo">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Joao-Victor-Araujo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Victor-Araujo&layout=compact&langs_count=7&theme=tokyonight"/>
+ 
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Victor-Araujo&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 

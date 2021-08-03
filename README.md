@@ -3,7 +3,7 @@
 
 <br>
 
--Sou estudante da Rede Cidadã via Accenture(turma 2 front-end).
+-Sou estudante da Rede Cidadã via Accenture, busco conhecimento e certificados em varias plataformas(freecodecamp,udemy,dio,trybe).
 
 <h3>Tecnologia que mais utilizo e estudo</h3>
 
@@ -19,8 +19,8 @@
 <center>
 <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruna-fonseca&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=bruna-fonseca&theme=buefy"/></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvas1999&hide=html&layout=compact&theme=buefy"/></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=jvas1999&theme=buefy"/></td>
     </tr>   
 </table>
 </center> 

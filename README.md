@@ -1,4 +1,4 @@
-<h1 align="center">João Victor A.</h1>
+<h1 align="center">João Victor Araujo</h1>
 <h2 align="center">Front-End Student and Web Development</h2>
 
 <br>

@@ -20,6 +20,8 @@
 <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" styles="display: inline" />
 <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" styles="display: inline" />
 <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" styles="display: inline"/>
+<img align="center" alt="VisualStudio" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">
+<img align="center" alt="GitHub" height="30" width="33" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/GitHub_Mark.png">
 </p>
 
 <h3 align="left">contact:</h3>

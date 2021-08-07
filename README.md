@@ -22,6 +22,7 @@
 <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" styles="display: inline"/>
 <img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">
 <img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/GitHub_Mark.png">
+<img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg">
 </p>
 
 <h3 align="left">contact:</h3>

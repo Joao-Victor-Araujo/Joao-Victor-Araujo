@@ -18,6 +18,8 @@
 <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" styles="display: inline" />
 <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" styles="display: inline" />
 <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" styles="display: inline" />
+<img heigh="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
+<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
 <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" styles="display: inline" />
 <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" styles="display: inline" />
 <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" styles="display: inline"/>

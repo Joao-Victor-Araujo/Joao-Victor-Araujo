@@ -4,6 +4,7 @@
 <br>
 
 -I am a student at Rede Cidadã via Accenture, I love technology and I try to be up to date with it every day, in the search for evolution.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Joao-Victor-Araujo&label=Profile%20views&color=0e75b6&style=flat" alt="JVAS"/></p>
 
 <div>
  

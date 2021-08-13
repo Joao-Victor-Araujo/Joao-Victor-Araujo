@@ -2,7 +2,7 @@
 <h2 align="center">Front-End Student and Web Development</h2>
 
 <br>
--Hi, my name is João Victor, I'm 22 years old, From PE, Brazil.
+-Hi, my name is João Victor, I'm 22 years old, From PE, Brazil.<br>
 -I am a student at Rede Cidadã via Accenture, I love technology and I try to be up to date with it every day, in the search for evolution.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Joao-Victor-Araujo&label=Profile%20views&color=0e75b6&style=flat" alt="JVAS"/></p>
 

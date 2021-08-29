@@ -16,10 +16,11 @@
 <h3>Technology I use and study</h3>
 
 <p align="left">
-<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" styles="display: inline" />
-<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" styles="display: inline" />
-<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" styles="display: inline" />
-<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" styles="display: inline" />
+<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" styles="display: inline"/>
+<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" styles="display: inline"/>
+<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" styles="display: inline"/>
+<img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" styles="display: inline"/>
+<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" styles="display: inline"/>
 <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" styles="display: inline"/>
 <img width="40" height="40" src="https://img.icons8.com/fluency/48/000000/docker.png" styles="display: inline"/>
 <img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/GitHub_Mark.png">
@@ -29,5 +30,5 @@
 <h3 align="left">contact:</h3>
 
 <p align="left">
-<a href="https://instagram.com/dalestinho1" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?&logo=instagram&logoColor=white" target="_blank"></a> <br>
+<a href="https://instagram.com/dalestinho1" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?&logo=instagram&logoColor=white" target="_blank"></a>
 <a style="display: inline-block;" href="https://www.linkedin.com/in/jvas1999/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?&logo=linkedin&logoColor=white" target="_blank"></a>

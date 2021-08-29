@@ -21,7 +21,7 @@
 <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" styles="display: inline" />
 <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" styles="display: inline" />
 <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" styles="display: inline"/>
-<img width="40" height="40" src="https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png" styles="display: inline"/>
+<img width="40" height="40" src="https://img.icons8.com/fluency/48/000000/docker.png" styles="display: inline"/>
 <img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/GitHub_Mark.png">
 <img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg">
 </p>

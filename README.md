@@ -18,7 +18,6 @@
 <p align="left">
 <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" styles="display: inline" />
 <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" styles="display: inline" />
-<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" styles="display: inline" />
 <img heigh="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
 <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" styles="display: inline" />
 <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" styles="display: inline" />

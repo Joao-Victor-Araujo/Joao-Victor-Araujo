@@ -20,11 +20,9 @@
 <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" styles="display: inline" />
 <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" styles="display: inline" />
 <img heigh="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
-<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
 <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" styles="display: inline" />
 <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" styles="display: inline" />
 <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" styles="display: inline"/>
-<img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">
 <img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/GitHub_Mark.png">
 <img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg">
 </p>

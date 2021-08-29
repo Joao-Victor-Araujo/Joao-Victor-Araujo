@@ -29,6 +29,5 @@
 <h3 align="left">contact:</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/jvas1999/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/dalestinho1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</p>
+<a href="https://instagram.com/dalestinho1" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?&logo=instagram&logoColor=white" target="_blank"></a>
+<a style="display: inline-block;" href="https://www.linkedin.com/in/jvas1999/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?&logo=linkedin&logoColor=white" target="_blank"></a>

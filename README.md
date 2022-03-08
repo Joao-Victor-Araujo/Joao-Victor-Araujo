@@ -2,7 +2,7 @@
 <h2 align="center">Front-End Student and Web Development</h2>
 
 <br>
--I am a student at Rede Cidadã via Accenture, I love technology and I try to be up to date with it every day, in the search for evolution.
+-Welcome, I'm a technology student and I'm looking for evolution every day, currently focused on front end!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Joao-Victor-Araujo&label=Profile%20views&color=0e75b6&style=flat" alt="JVAS"/></p>
 
 <div>

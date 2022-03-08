@@ -2,8 +2,7 @@
 <h2 align="center">Front-End Student and Web Development</h2>
 
 <br>
-- Welcome, I'm a technology student and I'm looking for evolution every day, currently focused on front end!
-- <br>
+- Welcome, I'm a technology student and I'm looking for evolution every day, currently focused on front end!<br>
 - here is my [Curriculum](https://docs.google.com/document/d/1Sq0j3I-b91HA1ag_SyRGpyW5NSRGf3C87TiCTLKlLOw/edit?usp=sharing) to get more info.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Joao-Victor-Araujo&label=Profile%20views&color=0e75b6&style=flat" alt="JVAS"/></p>

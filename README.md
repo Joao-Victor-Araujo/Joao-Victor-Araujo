@@ -1,9 +1,3 @@
-<h1 align="center">João Victor Araujo</h1>
-<h2 align="center">Front-End Student and Web Development</h2>
-
-<br>
-- Welcome, I'm a technology student and I'm looking for evolution every day, currently focused on front end!<br>
-- Here is my Curriculum to get more info >>
 <a href="https://docs.google.com/document/d/1Sq0j3I-b91HA1ag_SyRGpyW5NSRGf3C87TiCTLKlLOw/edit?usp=sharing" target="_blank">let's go 👨‍💻</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Joao-Victor-Araujo&label=Profile%20views&color=0e75b6&style=flat" alt="JVAS"/></p>
